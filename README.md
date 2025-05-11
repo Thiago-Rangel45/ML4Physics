@@ -1,10 +1,10 @@
 # ML4Physics @ PPGF-UERJ — 2025.1
 
-Este repositório reúne o material de aula do curso **"Tópicos Especiais: Aprendizado de Máquina e Redes Neurais com Python"**, oferecido no **Programa de Pós-Graduação em Física (PPGF)** da **UERJ**, no semestre **2025.1**, sob orientação dos professores **Clemência** e **Antônio**.
+Este repositório reúne o material de aula do curso "Tópicos Especiais: Aprendizado de Máquina e Redes Neurais com Python", oferecido no Programa de Pós-Graduação em Física (PPGF) da UERJ, no semestre 2025.1, sob orientação dos professores Clemência e Antônio.
 
 ---
 
-## Ementa do curso (FIS99915)
+## Ementa do curso
 
 **Carga horária:** 30h/aula  
 **Créditos:** 2 (cada parte)
